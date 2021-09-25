@@ -1,4 +1,4 @@
-package com.example.myrecyclerview;
+package com.praktikumtam.myrecyclerview;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.myrecyclerview", appContext.getPackageName());
+        assertEquals("com.praktikumtam.myrecyclerview", appContext.getPackageName());
     }
 }

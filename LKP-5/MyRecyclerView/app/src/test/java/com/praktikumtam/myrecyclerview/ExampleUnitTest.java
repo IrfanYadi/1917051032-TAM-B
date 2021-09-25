@@ -1,4 +1,4 @@
-package com.example.myrecyclerview;
+package com.praktikumtam.myrecyclerview;
 
 import org.junit.Test;
 
